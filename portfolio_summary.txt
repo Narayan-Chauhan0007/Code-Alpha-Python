@@ -1,0 +1,6 @@
+Stock Portfolio Summary
+=======================
+GOOGL: 8 shares x $2800 = $22400
+MSFT: 7 shares x $300 = $2100
+
+Total investment value: $24500
